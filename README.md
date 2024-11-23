@@ -175,10 +175,5 @@ pythoncode/
    sudo docker run ybadhe/birthdaytoage
    ```
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
-
-This README provides a comprehensive overview of the project, the steps to set it up, and how to run the application locally or in Docker.
